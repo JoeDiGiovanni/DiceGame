@@ -1,6 +1,8 @@
-
-
-
+Dice Game:
+Roll a six-sided die 10x
+For each roll - 
+  take 10x the die total or only the die total
+  keeping total under 100
 
 Die: 1  Total: 10
 Die: 3  Total: 40
